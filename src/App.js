@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+//import React, { useState } from 'react';
 import './App.css';
 
-const operadores = ['*', '/', '+', '.', '-'];
+//const operadores = ['*', '/', '+', '.', '-'];
 
 function App() {
   return (
