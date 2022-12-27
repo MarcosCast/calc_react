@@ -7,7 +7,17 @@ function App() {
   return (
     <div className="App">
       <h1>Calculadora</h1>
-      <div className='calc'></div>      
+      <label>Primeiro Numero</label>
+      <input type="number" />
+      <label>Segundo Numero</label>
+      <input type="number" />  
+
+      <select>
+        <option>Somar</option>
+        <option>Subtrair</option>
+        <option>Multiplicar</option>
+        <option>Dividir</option>                
+      </select>   
     </div>
   );
 }
