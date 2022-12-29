@@ -1,9 +1,11 @@
 button {
-    width: 3em;
-    height: 3em;
+    width: 2.5em;
+    height: 2.5em;
     font-size: 1.5em;
     border: none;
-    border-radius: 2em;
+    border-radius: 10%;
+    margin: 0.3em;
+    /*opacity: 70%;*/
 }
 
 button:hover {
@@ -11,6 +13,30 @@ button:hover {
 }
 
 .backgr {
-    background-color: grey;
+    background-color: rgb(1, 1, 90)/*linear-gradient(darkblue, blue, lightblue)*/;
     border-radius: 1em;
+    padding: 2em;
+}
+
+.op {
+    background-color: rgb(2, 128, 107);
+    color: white;
+}
+
+.numero {
+    background-color: rgb(59, 59, 59);
+    color: white;
+}
+
+.led {
+    color: white; 
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size: 3.5em;
+}
+
+.con {
+    color: white;
+    background-color: rgb(148, 148, 3);
 }
