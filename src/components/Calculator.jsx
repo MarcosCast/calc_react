@@ -30,7 +30,7 @@ export default function Calculator() {
         }
     }
 
-    //Corrigir calculo com percent
+    //Corrigir calculo com percent que está dando errado
     function inputPercent() {
         setNum(num / 100);
     }  
