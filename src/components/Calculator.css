@@ -1,3 +1,11 @@
+body {
+    background-image: url('https://phoneky.co.uk/thumbs/screensavers/down/abstract/bluenumber553212.gif');
+    background-size: cover;
+    height: 100%;
+    padding:0;
+    margin:0;
+}
+
 button {
     width: 2.5em;
     height: 2.5em;
@@ -13,18 +21,18 @@ button:hover {
 }
 
 .backgr {
-    background-color: rgb(1, 1, 90)/*linear-gradient(darkblue, blue, lightblue)*/;
+    background-color: #483D8B /*linear-gradient(darkblue, blue, lightblue)*/;
     border-radius: 1em;
     padding: 2em;
 }
 
 .op {
-    background-color: rgb(2, 128, 107);
+    background-color: #FA8072;
     color: white;
 }
 
 .numero {
-    background-color: rgb(59, 59, 59);
+    background-color: #1E90FF;
     color: white;
 }
 
