@@ -28,7 +28,7 @@ https://calc-marcos.vercel.app/
 
 ## 🛠️ Tecnologias utilizadas no desenvolvimento
 
-* React - Framework JavaScript
+* React - Bibliotecca JavaScript
 * MUI - Livraria React
 * npm - Gerenciador de pacode Node.JS
 
